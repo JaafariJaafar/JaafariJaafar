@@ -1,45 +1,52 @@
-# Hi, I'm Jaafari Jaafar
+## Jaafari Jaafar
 
-**AI Engineer | PhD in Computer Science | Machine Learning, Deep Learning, Computer Vision & Cybersecurity**
+**AI Engineer | PhD in Computer Science | Machine Learning • Computer Vision • Cybersecurity**
 
-I am a PhD-level AI practitioner with a background in machine learning, deep learning, computer vision, medical imaging, and cybersecurity.
+PhD-level AI practitioner focused on building practical, production-oriented machine learning systems.
+My background combines scientific research, computer vision, medical imaging, cybersecurity, and software engineering.
 
-My work focuses on building practical AI systems that connect research-level methods with real-world software engineering practices.
+---
 
-## Core Areas
+### Focus Areas
 
 * Machine Learning and Deep Learning
-* Computer Vision and Medical Imaging
+* Computer Vision and Image Analysis
 * Cybersecurity and AI-based Intrusion Detection
-* Python Backend Development
-* FastAPI and REST APIs
-* Model Serving and MLOps
+* Backend APIs for AI systems
 * Retrieval-Augmented Generation and LLM Applications
+* MLOps and model serving
 
-## Technical Stack
+---
 
-**Languages:** Python, Java, SQL, JavaScript
+### Technical Stack
+
+**Languages:** Python, Java, SQL
 **AI/ML:** Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV
 **Backend:** FastAPI, REST APIs, Pydantic
 **Data:** Pandas, NumPy, SQL databases
 **MLOps:** Docker, GitHub Actions, MLflow
-**Cybersecurity:** Web security, OWASP, intrusion detection, anomaly detection
-**Research:** Computer vision, medical imaging, explainable AI
+**Security:** Web security, OWASP, anomaly detection, intrusion detection
 
-## Current Focus
+---
 
-I am currently building production-oriented AI projects, including:
+### Projects in Progress
 
-* ML APIs for cybersecurity use cases
-* RAG applications for document intelligence
-* Computer vision pipelines
-* MLOps-ready model serving templates
+| Project                      | Focus                               | Status      |
+| ---------------------------- | ----------------------------------- | ----------- |
+| AI Phishing Detector API     | ML, Cybersecurity, FastAPI          | In progress |
+| RAG Document Assistant       | LLM, RAG, Vector Search             | Planned     |
+| Computer Vision Pipeline     | Deep Learning, Image Classification | Planned     |
+| MLOps Model Serving Template | Docker, CI/CD, Model API            | Planned     |
 
-## Selected Research Background
+---
 
-My academic work includes applications of deep learning to medical imaging, laparoscopic surgery analysis, breast cancer prediction, human action recognition, and cybersecurity-related AI systems.
+### Research Background
 
-## Contact
+Selected work includes deep learning applications in medical imaging, laparoscopic surgery analysis, breast cancer prediction, human action recognition, and cybersecurity-related AI systems.
 
-* LinkedIn: add your LinkedIn profile link here
+---
+
+### Links
+
+* LinkedIn: https://www.linkedin.com/in/jaafar-jaafari/
 * Web of Science: https://www.webofscience.com/wos/author/rid/ABZ-7943-2022
