@@ -21,28 +21,16 @@ My background combines scientific research, computer vision, medical imaging, cy
 ### Technical Stack
 
 **Languages:** Python, Java, SQL
+
 **AI/ML:** Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV
+
 **Backend:** FastAPI, REST APIs, Pydantic
+
 **Data:** Pandas, NumPy, SQL databases
+
 **MLOps:** Docker, GitHub Actions, MLflow
+
 **Security:** Web security, OWASP, anomaly detection, intrusion detection
-
----
-
-### Projects in Progress
-
-| Project                      | Focus                               | Status      |
-| ---------------------------- | ----------------------------------- | ----------- |
-| AI Phishing Detector API     | ML, Cybersecurity, FastAPI          | In progress |
-| RAG Document Assistant       | LLM, RAG, Vector Search             | Planned     |
-| Computer Vision Pipeline     | Deep Learning, Image Classification | Planned     |
-| MLOps Model Serving Template | Docker, CI/CD, Model API            | Planned     |
-
----
-
-### Research Background
-
-Selected work includes deep learning applications in medical imaging, laparoscopic surgery analysis, breast cancer prediction, human action recognition, and cybersecurity-related AI systems.
 
 ---
 
